@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/lumific/integrations
+- https://n8n.io/integrations/lumific/
+- https://composio.dev/toolkits/lumific
+- https://monid.ai/tools/lumific
+checked:
+- https://composio.dev/toolkits/lumific
+- https://monid.ai/tools/lumific
+- https://n8n.io/integrations/lumific/
+- https://zapier.com/apps/lumific/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
